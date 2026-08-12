@@ -1,8 +1,10 @@
-# Chris Dona | Digital Marketing Portfolio
+# Chris Dona | Marketing Manager | Digital & Performance Marketing | SEO, Paid Media, Lead Generation, AEO/GEO | Strategy + Hands-on Execution
 
-Digital Marketing professional with **15+ years of total professional experience**, including **10+ years of UAE digital marketing experience** across SEO, Performance Marketing, Google Ads, Meta Ads, LinkedIn Ads, Analytics, Lead Generation, Marketing Strategy, Social Media, AEO/GEO, AI Search Visibility and Digital Growth.
+Marketing Manager with **15+ years of total professional experience**, including **10+ years of UAE digital marketing experience**, combining **marketing strategy with hands-on execution** across Digital Marketing, Performance Marketing, SEO, Paid Media, Lead Generation, Analytics, Social Media, Website Strategy, Content, AEO/GEO, Events and PR.
 
-This portfolio showcases selected digital marketing case studies covering website growth, organic search, paid acquisition, lead generation, social media, content strategy, analytics, conversion optimisation, e-commerce, AI-driven search visibility, events and PR.
+Experienced in building and scaling marketing functions end-to-end, from strategy, budgeting, positioning and campaign planning to execution across Google Ads, Meta Ads, LinkedIn Ads, SEO, CRM, websites, conversion optimisation, analytics and AI search visibility.
+
+This portfolio showcases selected work across **digital growth, performance marketing, brand development, website transformation, lead generation, SEO, social media, events, PR and multi-channel marketing** across B2B, professional services, legal, beauty, luxury, e-commerce and corporate services sectors.
 
 ---
 

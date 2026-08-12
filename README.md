@@ -64,8 +64,7 @@ Built and developed LFL International Group's digital presence from an early-sta
 - Implemented and managed **GA4, Google Search Console and Google Tag Manager**
 - Built the company's digital marketing foundation from a minimal online presence
 
-→ [View LFL International Group Case Study](./case-studies/LFL_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
-
+→ [View LFL International Group Case Study](https://github.com/chrisdona-marketing/marketing-portfolio/blob/main/case-studies/LFL_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
 ---
 
 ### LF Legal, United Kingdom

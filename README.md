@@ -4,6 +4,97 @@ Digital Marketing professional with 15+ years of total professional experience, 
 This portfolio showcases selected digital marketing case studies, including website growth, organic search performance, paid acquisition, content strategy, analytics, conversion optimization and emerging AI-driven search visibility.
 
 ## Featured Digital Marketing Case Studies
+
+**Chris Dona | General Digital Marketing & Growth Portfolio**
+
+Senior Digital Marketing & Growth professional with 15+ years of total professional experience, including 10+ years of UAE digital marketing experience across performance marketing, SEO, AEO/GEO, lead generation, websites, e-commerce, social media, analytics and CRM-led growth.
+
+Selected Portfolio Results
+
+ADAM Global & Dubai Business Advisors
+
+Managed seasonal digital media budgets of approximately AED 60K-70K/month off-season, scaling to AED 80K-100K/month during peak periods
+
+1,323 Salesforce leads in a reported month
+
+Organic traffic scaled from approximately 1,500-2,000 to 16,000+ monthly visits in the historical portfolio
+
+55 priority SEO keywords in Google's Top 10, including 21 #1 rankings
+
+Built and managed a combined social audience of approximately 44.5K followers during my management period across Instagram, Facebook and LinkedIn
+
+LFL International Group, Dubai
+
+30,000 GA4 sessions
+
+12,498 active users
+
+7,510 organic-search sessions
+
+Approximately 482 identifiable AI-referred sessions
+
+Built the digital acquisition foundation from an early-stage online presence
+
+LF Legal, United Kingdom
+
+27,767 GA4 sessions
+
+11,392 organic-search sessions
+
+10,894 engaged sessions
+
+61.5% organic engagement rate
+
+Paid Search contributed only 54 sessions, demonstrating predominantly organic acquisition
+
+Madam Me, United Kingdom
+
+395K+ Google organic impressions
+
+1,779 organic clicks
+
+4,677 new users from Organic Search
+
+31,012 page views
+
+Collective Hair & Beauty Salon by Deena Al Waid
+
+Qualified leads increased from approximately 40 to 180 per month
+
+Conversion rate increased from 3.2% to 11.5%
+
+Organic traffic increased from approximately 1,200 to 4,800 monthly visits
+
+Social following increased from approximately 8K to 22K
+
+Historical portfolio records approximately 35% lower customer acquisition cost after optimisation
+
+Vibrand 360 | Kickstart Me | Upcreative Multi-Client Portfolio
+
+Historical portfolio reports 45%+ average organic traffic growth across multiple sectors
+
+Rocky Real Estate: 3,200 → 5,200 visits/month
+
+Al Ramsy Advocates: 1,800 → 2,900 visits/month
+
+Globelink West Star: 900 → 1,450 visits/month
+
+Majestic Optics: 2,100 → 3,400 visits/month
+
+MRF Tyres Dubai: 1,500 → 2,400 visits/month
+
+Buzinessware: 2,800 → 4,500 visits/month
+
+Al Hajis Perfumes, UAE | E-Commerce & Product Marketing, circa 2018
+
+Supported the new website launch, SEO foundation, product/category marketing and social-media activity
+
+Worked on perfume product positioning, promotional messaging, digital merchandising and search visibility
+
+Current public footprint for context only, not attributed to my 2018 work: approximately 27.5K estimated monthly website visits, 2,480+ products, 40+ stores, and approximately 2.4K LinkedIn followers
+
+→ View General Digital Marketing & Growth Portfolio Case Study
+
 **ADAM Global, Dubai, UAE**
 
 Managed and scaled ADAM Global's full-funnel digital marketing ecosystem across SEO, Google Ads, Meta Ads, remarketing, social media, content, local search, analytics and Salesforce lead generation, with monthly media budgets ranging from approximately AED 60K-70K during off-season periods to AED 80K-100K during peak periods.
@@ -40,23 +131,7 @@ Managed international targeting across the UAE, GCC, India, Pakistan, UK, US, Ca
 
 Strengthened Google Business Profile/local visibility alongside organic and paid acquisition
 
-→ → [View ADAM Global Digital Growth Case Study](PASTE-THE-GITHUB-PDF-URL-HERE)
-
-For example:
-
-→ [View ADAM Global Digital Growth Case Study](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/blob/main/case-studies/ADAM_Global_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
-
-This is often safer than the relative path.
-
-Also check these exact details:
-
-Folder is case-studies, not case-study, Case-studies, or Case Studies
-Filename matches capitalization exactly
-There is no (1), (2), space, or other character added to the uploaded PDF
-The PDF has actually been committed to GitHub
-Your README is in the repository root
-
-If you send me your GitHub repository link, I can give you the exact working Markdown links for ADAM Global, LFL, LF Legal, Law Firm Ltd and Madam Me so you can copy-paste them without guessing.
+→ [View ADAM Global Digital Growth Case Study](ADAM_Global_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
 
 ### LFL International Group, Dubai
 

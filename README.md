@@ -138,6 +138,195 @@ Developed an SEO-led digital growth strategy for Madam Me, strengthening **organ
 
 🎥 [Watch Madam Me Website Walkthrough](https://drive.google.com/file/d/1RyrJdRtUbjRPC1IDw9MLmVvHXh2TNAxx/view?usp=drive_link)
 ---
+## SEO, Content Strategy & Thought Leadership
+
+Content strategy has been a core part of my digital marketing work since my earlier marketing roles, including my time with **Al Wafaa Group**, and has continued across B2B, corporate services, legal, tax, compliance and professional-services brands.
+
+My approach combines **SEO research, search intent, commercial priorities, subject-matter expertise and conversion strategy** to create content that supports both organic visibility and lead generation.
+
+### Dubai Business Advisors | ADAM Global
+
+From **August 2022 to January 2024**, I planned and wrote SEO-focused website and blog content for **Dubai Business Advisors**, part of the ADAM Global digital ecosystem.
+
+A content pipeline had been developed in advance, which meant articles I had written continued to be published through approximately **April 2024**, after the primary writing period had ended.
+
+**Content & SEO Responsibilities**
+
+* SEO content strategy and editorial planning
+* Keyword and search-intent research
+* Topic and content-cluster development
+* Long-form business setup and corporate-services content
+* High-commercial-intent service and industry topics
+* Company formation and licensing content
+* Sector-specific business setup guides
+* Content briefs and article structures
+* Internal linking strategy
+* On-page SEO optimisation
+* Metadata and heading structure
+* CTA and enquiry-path integration
+* Content designed to support organic visibility, authority and lead generation
+* Coordination of a forward content pipeline to maintain publishing consistency
+
+→ [View Dubai Business Advisors](https://www.dubaibusinessadvisors.com/)
+
+→ [View Dubai Business Advisors Blog](https://www.dubaibusinessadvisors.com/blogs/)
+
+---
+
+### ADAM Global | Service-Page Content
+
+Alongside the Dubai Business Advisors editorial programme, I developed and supported **service-page content for ADAM Global**, connecting SEO requirements with commercial service positioning.
+
+Content focused on helping users understand professional-services offerings while creating stronger search visibility and clearer enquiry journeys.
+
+**Areas covered included:**
+
+* Company formation and business setup
+* Corporate services
+* Tax and advisory services
+* Accounting and related professional services
+* Regulatory and compliance topics
+* Commercial service landing pages
+* SEO-focused service-page structure
+* Conversion-oriented calls to action
+* Internal linking between services, insights and lead-generation pages
+
+---
+
+### LFL International Group | Website Content & Content Strategy
+
+For **LFL International Group**, I was responsible for the broader website content strategy and the development of content across the website.
+
+The work combined **brand positioning, SEO, information architecture, service communication and lead-generation strategy** rather than treating website copy as a standalone writing exercise.
+
+**Website Content & Strategy Responsibilities**
+
+* Overall website content strategy
+* Website information architecture
+* Service-page planning and writing
+* SEO keyword and search-intent mapping
+* Page hierarchy and navigation planning
+* Corporate and brand messaging
+* Business setup and corporate-services content
+* Banking, licensing, visa and related service content
+* SEO landing-page development
+* Conversion-oriented page structure
+* CTA planning
+* Internal linking
+* Content optimisation for organic search
+* Content designed for both traditional search and emerging AI discovery
+* Coordination between website, SEO, paid media and lead-generation activities
+
+→ [View LFL International Group Website](https://lfl-group.ae/)
+
+🎥 [Watch LFL Website Walkthrough](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
+
+---
+
+### LF Legal | Legal Content & Insights Strategy
+
+For **LF Legal**, I supported website content development across selected service pages and the firm's **Insights** section.
+
+The strategy focused on making complex legal and immigration topics easier to understand while building organic search visibility around relevant legal-service queries.
+
+**Content Contributions**
+
+* Selected legal service-page content
+* Immigration-related content
+* SEO-focused legal articles
+* Insights and thought-leadership content
+* Search-intent and keyword research
+* Topic planning
+* Service-to-insight internal linking
+* On-page SEO structure
+* User-focused explanation of legal services
+* Content supporting organic discovery and consultation journeys
+
+→ [View LF Legal Insights](https://www.lflegal.uk/insights/)
+
+🎥 [Watch LF Legal Website Walkthrough](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
+
+---
+
+### LinkedIn & B2B Thought-Leadership Content
+
+In addition to website and SEO content, I developed and coordinated **LinkedIn content for professional-services brands including LFL International Group and LF Legal**.
+
+The objective was to use LinkedIn not only as a social channel, but as part of a wider B2B marketing and authority-building strategy.
+
+**Content areas included:**
+
+* Regulatory and industry updates
+* Corporate-services topics
+* Legal and immigration insights
+* Business advisory content
+* Tax and compliance updates
+* Service education
+* Thought leadership
+* Event promotion
+* Webinar promotion
+* Brand and corporate updates
+* Website and insight-content distribution
+* Lead-generation and consultation CTAs
+
+The LinkedIn content strategy was connected with **SEO, website content, events, webinars and broader lead-generation campaigns** rather than operating as an isolated social-media activity.
+
+---
+
+### Webinars | AML Compliance & Corporate Tax
+
+I also supported and conducted educational webinars around **AML Compliance and Corporate Tax services** during my work with **ADAM Global and LFL International Group**.
+
+These webinars formed part of a wider content and lead-nurturing strategy designed to educate existing clients and prospects while creating opportunities for service awareness, consultation and cross-selling.
+
+**Webinar Marketing Activities**
+
+* Topic and campaign planning
+* Service positioning
+* Webinar content development
+* Presentation coordination
+* Audience and database segmentation
+* Client and prospect invitations
+* Email marketing
+* WhatsApp promotion and reminders
+* Social media promotion
+* Registration and landing-page coordination
+* Educational content around regulatory requirements
+* Coordination with tax, compliance and advisory specialists
+* Post-webinar follow-up
+* Consultation and cross-sell opportunities
+* Repurposing webinar topics into website, social and thought-leadership content
+
+---
+
+### Content Strategy Approach
+
+My content work typically follows a full-funnel approach:
+
+**Search Demand → Search Intent → Topic Strategy → Content Architecture → Content Creation → SEO Optimisation → Distribution → Lead Generation → Measurement**
+
+This includes:
+
+* Keyword and competitor research
+* Search-intent analysis
+* Content-gap analysis
+* Topic clusters and pillar-content planning
+* Commercial and informational keyword mapping
+* Service-page architecture
+* Editorial calendars
+* SEO article development
+* Website copywriting
+* Thought-leadership content
+* LinkedIn content
+* Webinar content
+* Internal linking
+* Conversion-focused CTAs
+* Content repurposing
+* Digital PR and authority building
+* GA4 and Google Search Console performance analysis
+* Continuous content optimisation based on search and user behaviour
+
+---
 
 ## Events, PR & Experiential Marketing
 

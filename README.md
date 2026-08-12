@@ -646,8 +646,8 @@ Selected website projects demonstrating **website strategy, development coordina
 
 | Project                     | Market          | Website Walkthrough                                                                                         |
 | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------- |
-| **LFL International Group** | Dubai, UAE      | [🎥 Watch Recording](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link) |
-| **LF Legal**                | United Kingdom  | [🎥 Watch Recording](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link) |
+| **LFL International Group** | Dubai, UAE      | [🎥 Watch Recording](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)  |
+| **LF Legal**                | United Kingdom  | [🎥 Watch Recording](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)  |
 | **Madam Me**                | United Kingdom  | [🎥 Watch Recording](https://drive.google.com/file/d/1RyrJdRtUbjRPC1IDw9MLmVvHXh2TNAxx/view?usp=drive_link) |
 | **Very Special Love (VSL)** | Website Project | [🎥 Watch Recording](https://drive.google.com/file/d/1f1Q9KYXXcNK_GTGg1CvSaEpl3LJvmcV1/view?usp=drive_link) |
 
@@ -659,7 +659,6 @@ Selected website projects demonstrating **website strategy, development coordina
 
 Where historical analytics were available, performance figures are based on available **GA4, CRM, advertising, SEO or reporting data**.
 
-Where historical analytics were unavailable, estimates or current public-footprint figures are identified separately rather than presented as verified historical results.
 
 ---
 

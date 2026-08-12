@@ -65,3 +65,25 @@ Developed and managed SEO, content and digital visibility initiatives for an est
 
 → [View Law Firm Ltd Case Study](case-studies/Law_Firm_Ltd_Digital_Growth_Portfolio_Case_Study_WITH_TRAFFIC.pdf)
 
+### Madam Me, United Kingdom
+
+Developed an SEO-led digital growth strategy for Madam Me, strengthening organic search visibility, audience acquisition and service discovery with minimal reliance on paid search.
+
+**Key Results**
+
+* 6,884 active users
+* 31,012 page views
+* 395,134 Google organic search impressions
+* 1,779 Google organic clicks
+* 4,677 new users acquired through Organic Search
+* Organic Search contributed approximately 45% of recorded new-user acquisition
+* Paid Search generated only 300 new users, highlighting the strength of organic acquisition
+* Organic visitors averaged 97.3 seconds of engagement per active user, compared with 41.5 seconds from Paid Search
+* Developed visibility across high-intent service, booking and informational search queries
+* Strengthened non-branded organic keyword visibility
+* Built measurable organic acquisition across London and wider UK audiences
+* Identified service-page, booking-page and technical SEO opportunities through GA4 and Google Search Console analysis
+
+→ [View Madam Me Digital Growth Case Study](case-studies/Madam_Me_Digital_Growth_Portfolio_Case_Study.pdf)
+
+

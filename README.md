@@ -7,7 +7,11 @@ This portfolio showcases selected digital marketing case studies, including webs
 
 **Chris Dona | General Digital Marketing & Growth Portfolio**
 
-→[ View General Digital Marketing & Growth Portfolio Case Study]
+A consolidated portfolio showcasing 15+ years of professional experience, including 10+ years in UAE digital marketing, across performance marketing, SEO, lead generation, social media, e-commerce, analytics and multi-brand growth strategy.
+
+Includes work across ADAM Global, LFL International Group, LF Legal, Madam Me, Collective Hair & Beauty, Vibrand 360 / Upcreative clients and Al Hajis Perfumes.
+
+→ [View General Digital Marketing & Growth Portfolio Case Study](./Chris_Dona_General_Digital_Marketing_Case_Study.pdf)
 
 **ADAM Global, Dubai, UAE**
 

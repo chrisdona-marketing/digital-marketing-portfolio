@@ -4,6 +4,43 @@ Digital Marketing professional with 15+ years of total professional experience, 
 This portfolio showcases selected digital marketing case studies, including website growth, organic search performance, paid acquisition, content strategy, analytics, conversion optimization and emerging AI-driven search visibility.
 
 ## Featured Digital Marketing Case Studies
+**ADAM Global, Dubai, UAE**
+
+Managed and scaled ADAM Global's full-funnel digital marketing ecosystem across SEO, Google Ads, Meta Ads, remarketing, social media, content, local search, analytics and Salesforce lead generation, with monthly media budgets ranging from approximately AED 60K-70K during off-season periods to AED 80K-100K during peak periods.
+
+Key Results & Contributions
+
+Managed a multi-channel digital marketing budget of AED 60K-100K per month, depending on seasonality
+
+Generated 1,323 Salesforce leads in a reported month across paid media, website, WhatsApp, chat, Cost Calculator and other acquisition sources
+
+Built and grew ADAM Global's social media profiles to approximately 44.5K combined followers during my management period
+
+Instagram: ~18K followers
+
+Facebook: ~17.5K followers
+
+LinkedIn: ~9K followers
+
+The same profiles currently represent approximately 57.5K combined platform followers, showing continued growth of the brand communities established and developed
+
+Achieved 55 priority SEO keywords in Google's Top 10, including 21 keywords ranked #1
+
+SEO visibility included high-commercial-intent searches around Dubai business consultancy, company formation, holding companies, licensing, clinics, business setup and sector-specific market entry
+
+The Top 20 company-setup content landing pages generated 4,756 sessions and 3,965 new users in the reported analytics snapshot
+
+Developed and managed high-volume SEO content, technical optimization, backlinks, guest posting and search visibility initiatives
+
+Managed campaigns across Google Ads, Facebook/Instagram and AdRoll remarketing
+
+Built conversion journeys using Cost Calculator, landing pages, forms, WhatsApp, live chat and Salesforce CRM
+
+Managed international targeting across the UAE, GCC, India, Pakistan, UK, US, Canada, Australia and European markets
+
+Strengthened Google Business Profile/local visibility alongside organic and paid acquisition
+
+→ View ADAM Global Digital Growth Case Study
 
 ### LFL International Group, Dubai
 

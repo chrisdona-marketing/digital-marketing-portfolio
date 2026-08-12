@@ -40,7 +40,23 @@ Managed international targeting across the UAE, GCC, India, Pakistan, UK, US, Ca
 
 Strengthened Google Business Profile/local visibility alongside organic and paid acquisition
 
-→ View ADAM Global Digital Growth Case Study
+→ → [View ADAM Global Digital Growth Case Study](PASTE-THE-GITHUB-PDF-URL-HERE)
+
+For example:
+
+→ [View ADAM Global Digital Growth Case Study](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/blob/main/case-studies/ADAM_Global_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
+
+This is often safer than the relative path.
+
+Also check these exact details:
+
+Folder is case-studies, not case-study, Case-studies, or Case Studies
+Filename matches capitalization exactly
+There is no (1), (2), space, or other character added to the uploaded PDF
+The PDF has actually been committed to GitHub
+Your README is in the repository root
+
+If you send me your GitHub repository link, I can give you the exact working Markdown links for ADAM Global, LFL, LF Legal, Law Firm Ltd and Madam Me so you can copy-paste them without guessing.
 
 ### LFL International Group, Dubai
 

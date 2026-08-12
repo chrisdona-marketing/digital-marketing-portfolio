@@ -65,7 +65,7 @@ Built and developed LFL International Group's digital presence from an early-sta
 - Built the company's digital marketing foundation from a minimal online presence
 
 → [View LFL International Group Case Study](./LFL_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
-🎥 [Watch LF Legal Website Walkthrough](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
+🎥 [Watch LFL  Website Walkthrough](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
 
 
 ---
@@ -91,8 +91,9 @@ Developed an organic-led digital growth strategy for LF Legal, strengthening sea
 - July 2026 reached **1,683 new users**, almost 2.8x January 2026
 
 → [View LF Legal Case Study](./LF_Legal_Digital_Growth_Portfolio_Case_Study.pdf)
+🎥 [Watch LF Legal Website Walkthrough](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
 
-🎥 [Watch LFL Website Walkthrough](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
+
 ---
 
 ### Law Firm Ltd, United Kingdom

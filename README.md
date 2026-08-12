@@ -64,7 +64,10 @@ Built and developed LFL International Group's digital presence from an early-sta
 - Implemented and managed **GA4, Google Search Console and Google Tag Manager**
 - Built the company's digital marketing foundation from a minimal online presence
 
-→ [View LFL International Group Case Study](https://github.com/chrisdona-marketing/marketing-portfolio/blob/main/case-studies/LFL_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
+→ [View LFL International Group Case Study](./LFL_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
+
+🎥 [Watch LFL Website Walkthrough](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
+
 ---
 
 ### LF Legal, United Kingdom
@@ -87,7 +90,9 @@ Developed an organic-led digital growth strategy for LF Legal, strengthening sea
 - Bing Organic generated **1,928 sessions**
 - July 2026 reached **1,683 new users**, almost 2.8x January 2026
 
-→ [View LF Legal Case Study](./case-studies/LF_Legal_Digital_Growth_Portfolio_Case_Study.pdf)
+→ [View LF Legal Case Study](./LF_Legal_Digital_Growth_Portfolio_Case_Study.pdf)
+
+🎥 [Watch LF Legal Website Walkthrough](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
 
 ---
 
@@ -106,7 +111,7 @@ Developed and managed **SEO, content and digital visibility initiatives** for an
 - Developed regular legal and immigration content to expand organic search reach
 - Built a sustainable SEO foundation without heavy dependence on paid advertising
 
-→ [View Law Firm Ltd Case Study](./case-studies/Law_Firm_Ltd_Digital_Growth_Portfolio_Case_Study_WITH_TRAFFIC.pdf)
+→ [View Law Firm Ltd Case Study](./Law_Firm_Ltd_Digital_Growth_Portfolio_Case_Study_WITH_TRAFFIC.pdf)
 
 ---
 
@@ -129,8 +134,9 @@ Developed an SEO-led digital growth strategy for Madam Me, strengthening **organ
 - Built measurable organic acquisition across London and wider UK audiences
 - Identified service-page, booking-page and technical SEO opportunities through GA4 and Google Search Console analysis
 
-→ [View Madam Me Digital Growth Case Study](./case-studies/Madam_Me_Digital_Growth_Portfolio_Case_Study.pdf)
+→ [View Madam Me Digital Growth Case Study](./Madam_Me_Digital_Growth_Portfolio_Case_Study.pdf)
 
+🎥 [Watch Madam Me Website Walkthrough](https://drive.google.com/file/d/1RyrJdRtUbjRPC1IDw9MLmVvHXh2TNAxx/view?usp=drive_link)
 ---
 
 ## Events, PR & Experiential Marketing

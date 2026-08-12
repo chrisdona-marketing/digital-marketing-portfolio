@@ -48,7 +48,7 @@ For a complete overview of my professional experience, career history, leadershi
 
 <div align="center">
 
-[![View CV](https://img.shields.io/badge/VIEW_%2F_DOWNLOAD_MY_CV-0A66C2?style=for-the-badge)](./Chris_Dona_Marketing_Manager_CV.pdf)
+[![View CV](https://img.shields.io/badge/VIEW_%2F_DOWNLOAD_MY_CV-0A66C2?style=for-the-badge)](./Chris_Marketing_Manager_Latest.pdf)
 
 </div>
 

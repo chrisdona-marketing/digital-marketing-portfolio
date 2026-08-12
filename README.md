@@ -1,46 +1,70 @@
-<div align="center">
-
-# Chris Dona
-
-### Marketing Manager | Digital & Performance Marketing
-
-**Marketing Strategy + Hands-on Execution**
-
-![Marketing Strategy](https://img.shields.io/badge/MARKETING_STRATEGY-0A66C2?style=for-the-badge)
-![Performance Marketing](https://img.shields.io/badge/PERFORMANCE_MARKETING-7C3AED?style=for-the-badge)
-![SEO AEO GEO](https://img.shields.io/badge/SEO_%7C_AEO_%7C_GEO-059669?style=for-the-badge)
-![Lead Generation](https://img.shields.io/badge/LEAD_GENERATION-EA580C?style=for-the-badge)
-
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square)
-![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=flat-square)
-![GA4](https://img.shields.io/badge/GA4-F9AB00?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=flat-square)
-![AI Search](https://img.shields.io/badge/AI_Search-8B5CF6?style=flat-square)
-![CRM](https://img.shields.io/badge/CRM-475569?style=flat-square)
-![Content](https://img.shields.io/badge/Content_Strategy-EC4899?style=flat-square)
-
-</div>
+<table>
+  <tr>
+    <td width="200" valign="middle">
+      <img src="./chris.jpeg" width="180" alt="Chris Dona Headshot">
+    </td>
+    <td valign="middle">
+      <h1>Chris Dona</h1>
+      <h3>Marketing Manager | Senior Digital Marketing Manager</h3>
+      <strong>Marketing Strategy + Hands-on Execution</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/MARKETING_STRATEGY-0A66C2?style=for-the-badge">
+      <img src="https://img.shields.io/badge/PERFORMANCE_MARKETING-7C3AED?style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/SEO_%7C_AEO_%7C_GEO-059669?style=for-the-badge">
+      <img src="https://img.shields.io/badge/LEAD_GENERATION-EA580C?style=for-the-badge">
+    </td>
+  </tr>
+</table>
 
 ---
-
 ## Profile
 
-Marketing Manager with **15+ years of total professional experience**, including **10+ years of UAE digital marketing experience**, combining **marketing strategy with hands-on execution** across Digital Marketing, Performance Marketing, SEO, Paid Media, Lead Generation, Analytics, Social Media, Website Strategy, Content, AEO/GEO, Events and PR.
+Marketing Manager and Marketing Strategist with **15+ years of total professional experience**, including **10+ years of UAE digital marketing experience**, combining **strategic marketing leadership with hands-on execution**.
 
-Experienced in building and scaling marketing functions end-to-end, from **strategy, budgeting, positioning and campaign planning** through to execution across **Google Ads, Meta Ads, LinkedIn Ads, SEO, CRM, websites, conversion optimisation, analytics and AI search visibility**.
+Experience spans **Digital & Performance Marketing, SEO, AEO/GEO, Paid Media, Lead Generation, Analytics, CRM, Content Strategy, Social Media, Website Strategy, Conversion Optimisation, Events and PR**.
 
-My portfolio covers work across **B2B, professional services, legal, corporate services, beauty, luxury, e-commerce, automotive, logistics, real estate and retail**.
+Experienced in building and scaling marketing functions end-to-end, from **strategy, budgeting, positioning, market research and campaign planning** to execution across **Google Ads, Meta Ads, LinkedIn Ads, SEO, websites, CRM, analytics and AI search visibility**.
+
+Worked across **Corporate Services, Business Setup, Immigration, Legal, Real Estate, Automotive, E-Commerce, Healthcare, Professional Services, Logistics, Beauty and Luxury Lifestyle**, supporting brands across Dubai, London and international markets.
+
+> 
+> **Strategy-level marketing leadership combined with hands-on execution across acquisition, content, analytics, websites, lead generation, events and growth.**
 
 ---
 
 ## 📈 Portfolio Snapshot
 
-|                                      |                                    |                                |
-| :----------------------------------: | :--------------------------------: | :----------------------------: |
-|             **15+ Years**            |            **10+ Years**           |        **AED 60K–100K**        |
-|     Total Professional Experience    |  UAE Digital Marketing Experience  | Monthly Digital Budget Managed |
+|                               |                                  |                                     |
+| :---------------------------: | :------------------------------: | :---------------------------------: |
+|         **15+ Years**         |           **10+ Years**          |            **AED 110K+**            |
+| Total Professional Experience | UAE Digital Marketing Experience | Monthly Marketing Budget Experience |
 
+---
+
+## 📄 CV / Resume
+
+For a complete overview of my professional experience, career history, leadership responsibilities, marketing expertise and qualifications:
+
+<div align="center">
+
+[![View CV](https://img.shields.io/badge/VIEW_%2F_DOWNLOAD_MY_CV-0A66C2?style=for-the-badge)](./Chris_Dona_Marketing_Manager_CV.pdf)
+
+</div>
+
+---
+
+## 💼 Career at a Glance
+
+| Period             | Organisation                                 | Role                                                           |
+| ------------------ | -------------------------------------------- | -------------------------------------------------------------- |
+| **2024 – Present** | LFL International Group, LF Legal & Madam Me | **Marketing Manager**                                          |
+| **2022 – 2023**    | ADAM Global CSP & Dubai Business Advisors    | **Performance Marketing Manager**                              |
+| **2018 – 2022**    | Vibrand 360, Kickstart Me & Upcreative       | **Marketing Strategist / Senior Digital Marketing Consultant** |
+| **2016 – 2018**    | Al Wafaa Group                               | **Digital Marketing Team Lead**                                |
+| **2011 – 2015**    | Cognizant Technology Solutions               | **Software Analyst / Data Analyst**                            |
+
+My career combines **marketing strategy, digital execution, leadership, analytics and technology**, allowing me to approach marketing from both commercial and technical perspectives.
 
 ---
 
@@ -67,24 +91,22 @@ Includes selected work across **ADAM Global, LFL International Group, LF Legal, 
 ![Social](https://img.shields.io/badge/Social_Media-EC4899?style=flat-square)
 ![CRM](https://img.shields.io/badge/Salesforce_CRM-0A66C2?style=flat-square)
 
-Managed and scaled ADAM Global's full-funnel digital marketing ecosystem across **SEO, Google Ads, Meta Ads, remarketing, social media, content marketing, local search, analytics and Salesforce lead generation**.
-
-Managed monthly digital marketing budgets ranging from approximately **AED 60K–70K during off-season periods**, scaling to approximately **AED 80K–100K during peak periods**.
+Managed and scaled ADAM Global's full-funnel digital marketing ecosystem across **SEO, Google Ads, Meta Ads, remarketing, social media, content marketing, local search, analytics, events and Salesforce lead generation**.
 
 ### Key Results
 
-| Metric                             |             Result |
-| ---------------------------------- | -----------------: |
-| Monthly Digital Budget Managed     |   **AED 60K–100K** |
-| Salesforce Leads, Reported Month   |          **1,323** |
-| Social Audience During Management  |         **~44.5K** |
-| Priority Keywords in Google Top 10 |             **55** |
-| Keywords Ranked #1                 |             **21** |
-| Top 20 Company-Setup Pages         | **4,756 sessions** |
-| New Users from Top 20 Pages        |          **3,965** |
+| Metric                                     |              Result |
+| ------------------------------------------ | ------------------: |
+| Monthly Digital Budget Experience          | **Up to AED 110K+** |
+| Salesforce Leads, Reported Analytics Month |           **1,323** |
+| Social Audience During Management          |          **~44.5K** |
+| Priority Keywords in Google Top 10         |              **55** |
+| Keywords Ranked #1                         |              **21** |
+| Top 20 Company-Setup Pages                 |  **4,756 sessions** |
+| New Users from Top 20 Pages                |           **3,965** |
 
 <details>
-<summary><strong>View Key Contributions</strong></summary>
+<summary><strong>View Strategy & Contributions</strong></summary>
 
 <br>
 
@@ -94,13 +116,19 @@ Managed monthly digital marketing budgets ranging from approximately **AED 60K�
   * Instagram: **~18K followers**
   * Facebook: **~17.5K followers**
   * LinkedIn: **~9K followers**
-* The same profiles currently represent approximately **57.5K combined platform followers**, including continued growth after my tenure
-* Built search visibility for high-commercial-intent terms around Dubai business consultancy, company formation, holding companies, licensing, clinics and sector-specific business setup
+* The same profiles subsequently grew to approximately **57.5K combined platform followers**
+* Built visibility for high-commercial-intent searches around:
+
+  * Dubai business consultancy
+  * Company formation
+  * Holding companies
+  * Business licensing
+  * Clinics
+  * Sector-specific business setup
 * Developed and managed high-volume SEO content
-* Technical SEO optimisation
-* Backlink acquisition
-* Guest posting
-* Digital authority initiatives
+* Conducted technical and on-page SEO optimisation
+* Managed backlink acquisition and guest posting
+* Supported digital PR and authority-building initiatives
 * Built conversion journeys using:
 
   * Cost Calculator
@@ -111,6 +139,7 @@ Managed monthly digital marketing budgets ranging from approximately **AED 60K�
   * Salesforce CRM
 * Managed international targeting across UAE, GCC, India, Pakistan, UK, US, Canada, Australia and European markets
 * Strengthened Google Business Profile and local-search visibility
+* Supported business forums, networking events and client-engagement initiatives
 
 </details>
 
@@ -127,9 +156,9 @@ Managed monthly digital marketing budgets ranging from approximately **AED 60K�
 ![SEO](https://img.shields.io/badge/SEO-059669?style=flat-square)
 ![Analytics](https://img.shields.io/badge/Analytics-F59E0B?style=flat-square)
 ![AI Search](https://img.shields.io/badge/AI_Search-8B5CF6?style=flat-square)
-![Web](https://img.shields.io/badge/Website_Strategy-0EA5E9?style=flat-square)
+![Website](https://img.shields.io/badge/Website_Strategy-0EA5E9?style=flat-square)
 
-Built and developed LFL International Group's digital presence from an early-stage online footprint, creating a measurable acquisition ecosystem across **SEO, paid media, content marketing, analytics and emerging AI discovery channels**.
+Built and developed LFL International Group's digital presence from an early-stage online footprint, creating a measurable acquisition ecosystem across **SEO, paid media, content marketing, website strategy, analytics and emerging AI-discovery channels**.
 
 ### Key Results
 
@@ -145,7 +174,7 @@ Built and developed LFL International Group's digital presence from an early-sta
 
 <br>
 
-* Developed Organic Search into a major acquisition channel despite limited marketing budget and resources
+* Developed Organic Search into a major acquisition channel despite limited marketing resources
 * Built visibility across Google and emerging AI platforms
 * Developed SEO landing pages targeting high-intent searches around:
 
@@ -158,9 +187,11 @@ Built and developed LFL International Group's digital presence from an early-sta
 * Implemented and managed **GA4**
 * Managed **Google Search Console**
 * Managed **Google Tag Manager**
-* Built the company's digital marketing foundation from a minimal online presence
-* Developed website content strategy and conversion journeys
-* Connected website, SEO, content and lead-generation activities
+* Developed website content and information architecture
+* Built conversion journeys
+* Connected website, SEO, content, paid media and lead-generation activities
+* Supported event marketing and lead capture
+* Built the company's digital-marketing foundation from a minimal online presence
 
 </details>
 
@@ -168,7 +199,7 @@ Built and developed LFL International Group's digital presence from an early-sta
 
 [![View LFL Case Study](https://img.shields.io/badge/VIEW_LFL_CASE_STUDY-0A66C2?style=for-the-badge)](./LFL_Digital_Growth_Portfolio_Case_Study_FINAL.pdf)
 
-[![Watch Website](https://img.shields.io/badge/WATCH_WEBSITE_WALKTHROUGH-EA580C?style=for-the-badge)](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
+[![Watch Website](https://img.shields.io/badge/WATCH_LFL_WEBSITE_RECORDING-EA580C?style=for-the-badge)](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
 
 </div>
 
@@ -180,7 +211,7 @@ Built and developed LFL International Group's digital presence from an early-sta
 ![Legal Marketing](https://img.shields.io/badge/Legal_Marketing-334155?style=flat-square)
 ![AI Search](https://img.shields.io/badge/AI_Discovery-8B5CF6?style=flat-square)
 
-Developed an **organic-led digital growth strategy** for LF Legal, strengthening search visibility and website acquisition with minimal dependence on paid advertising.
+Developed an **organic-led digital growth strategy** for LF Legal, strengthening search visibility, website acquisition, content authority and AI discovery with minimal dependence on paid advertising.
 
 ### Key Results
 
@@ -197,14 +228,14 @@ Developed an **organic-led digital growth strategy** for LF Legal, strengthening
 | Identifiable AI Sessions |   **~269** |
 
 <details>
-<summary><strong>View Additional Performance Highlights</strong></summary>
+<summary><strong>View Additional Performance & Contributions</strong></summary>
 
 <br>
 
 * Organic Search generated **64.3% of all engaged sessions**
 * Organic Search generated **68.3% of recorded key events**
 * Only **54 sessions came from Paid Search**
-* AI-origin traffic included platforms such as:
+* AI-origin traffic included:
 
   * ChatGPT
   * Gemini
@@ -212,6 +243,15 @@ Developed an **organic-led digital growth strategy** for LF Legal, strengthening
   * Copilot
   * Perplexity
 * July 2026 reached **1,683 new users**, almost **2.8x January 2026**
+* Conducted keyword and search-intent research
+* Supported technical, on-page and off-page SEO
+* Developed selected legal service-page content
+* Developed Insights and thought-leadership content
+* Supported LinkedIn content strategy
+* Applied AEO/GEO principles for emerging AI search visibility
+* Supported website consultation journeys
+* Managed GA4, GTM and Search Console measurement
+* Supported event and exhibition marketing
 
 </details>
 
@@ -219,8 +259,8 @@ Developed an **organic-led digital growth strategy** for LF Legal, strengthening
 
 [![View LF Legal Case Study](https://img.shields.io/badge/VIEW_LF_LEGAL_CASE_STUDY-0A66C2?style=for-the-badge)](./LF_Legal_Digital_Growth_Portfolio_Case_Study.pdf)
 
+[![Watch Website](https://img.shields.io/badge/WATCH_LF_LEGAL_WEBSITE_RECORDING-EA580C?style=for-the-badge)](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
 
-[![Watch Website](https://img.shields.io/badge/WATCH_WEBSITE_WALKTHROUGH-EA580C?style=for-the-badge)](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
 </div>
 
 ---
@@ -235,15 +275,17 @@ Developed and managed **SEO, content and digital visibility initiatives** for an
 
 ### Key Highlights
 
-> **Estimated website traffic: approximately 2,500–4,000 monthly visits based on external traffic indicators.**
+> **Estimated monthly website traffic: approximately 2,500–4,000 visits based on external traffic indicators.**
 
 * Developed an immigration-focused SEO and content strategy
-* Improved visibility for high-intent legal and immigration searches
+* Improved organic visibility for high-intent legal and immigration searches
 * Developed multilingual website and search content
 * Strengthened local SEO and online reputation visibility
-* Supported international targeting across the UK, UAE and other markets
+* Supported international targeting across UK, UAE and other markets
 * Developed regular legal and immigration content
-* Built a sustainable organic-search foundation without heavy dependence on paid advertising
+* Built a sustainable organic-search foundation without heavy reliance on paid advertising
+
+*Traffic figures above are third-party estimates rather than historical first-party analytics.*
 
 <div align="center">
 
@@ -259,7 +301,7 @@ Developed and managed **SEO, content and digital visibility initiatives** for an
 ![Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square)
 ![Organic Growth](https://img.shields.io/badge/Organic_Growth-16A34A?style=flat-square)
 
-Developed an SEO-led digital growth strategy for Madam Me, strengthening **organic search visibility, audience acquisition and service discovery** with minimal reliance on paid search.
+Developed an SEO-led digital growth strategy for Madam Me, strengthening **organic search visibility, audience acquisition, content discoverability and service discovery** with minimal reliance on paid search.
 
 ### Key Results
 
@@ -282,10 +324,11 @@ Developed an SEO-led digital growth strategy for Madam Me, strengthening **organ
 
 * Developed visibility across high-intent service, booking and informational searches
 * Strengthened non-branded organic keyword visibility
-* Built measurable organic acquisition across London and wider UK audiences
+* Built measurable acquisition across London and wider UK audiences
 * Identified service-page and booking-page opportunities
 * Conducted GA4 and Google Search Console analysis
 * Identified technical SEO opportunities
+* Supported website content and customer-acquisition journeys
 
 </details>
 
@@ -293,7 +336,7 @@ Developed an SEO-led digital growth strategy for Madam Me, strengthening **organ
 
 [![View Madam Me Case Study](https://img.shields.io/badge/VIEW_MADAM_ME_CASE_STUDY-0A66C2?style=for-the-badge)](./Madam_Me_Digital_Growth_Portfolio_Case_Study.pdf)
 
-[![Watch Website](https://img.shields.io/badge/WATCH_WEBSITE_WALKTHROUGH-EA580C?style=for-the-badge)](https://drive.google.com/file/d/1RyrJdRtUbjRPC1IDw9MLmVvHXh2TNAxx/view?usp=drive_link)
+[![Watch Website](https://img.shields.io/badge/WATCH_MADAM_ME_WEBSITE_RECORDING-EA580C?style=for-the-badge)](https://drive.google.com/file/d/1RyrJdRtUbjRPC1IDw9MLmVvHXh2TNAxx/view?usp=drive_link)
 
 </div>
 
@@ -305,17 +348,17 @@ Developed an SEO-led digital growth strategy for Madam Me, strengthening **organ
 ![Thought Leadership](https://img.shields.io/badge/THOUGHT_LEADERSHIP-7C3AED?style=for-the-badge)
 ![B2B Content](https://img.shields.io/badge/B2B_CONTENT-0A66C2?style=for-the-badge)
 
-Content strategy has been a core part of my marketing work since earlier marketing roles, including **Al Wafaa Group**, and has continued across B2B, corporate services, legal, tax, compliance and professional-services brands.
+Content strategy has been a core part of my marketing work since earlier roles, including **Al Wafaa Group**, and has continued across B2B, corporate services, legal, tax, compliance, healthcare and professional-services brands.
 
-My approach combines **SEO research, search intent, commercial priorities, subject-matter expertise and conversion strategy** to build content that supports both **organic visibility and lead generation**.
+My approach combines **SEO research, search intent, commercial priorities, audience needs, subject-matter expertise and conversion strategy** to build content that supports both organic visibility and business outcomes.
 
 ---
 
 ## Dubai Business Advisors | ADAM Global
 
-From **August 2022 to January 2024**, I planned and wrote SEO-focused website and blog content for Dubai Business Advisors.
+From **August 2022 to January 2024**, I planned and wrote SEO-focused website and blog content for **Dubai Business Advisors**.
 
-A forward content pipeline had been developed, meaning articles I had written continued to be published through approximately **April 2024**.
+A forward editorial pipeline had been prepared, meaning content written during my tenure continued to be published through approximately **April 2024**.
 
 <details>
 <summary><strong>View Content & SEO Responsibilities</strong></summary>
@@ -326,16 +369,16 @@ A forward content pipeline had been developed, meaning articles I had written co
 * Keyword and search-intent research
 * Topic and content-cluster development
 * Long-form business setup and corporate-services content
-* High-commercial-intent service and industry topics
+* Commercial-intent service and industry topics
 * Company formation and licensing content
-* Sector-specific business setup guides
+* Sector-specific business-setup guides
 * Content briefs and article structures
-* Internal linking strategy
+* Internal-linking strategy
 * On-page SEO optimisation
 * Metadata and heading structure
 * CTA and enquiry-path integration
-* Content designed to support organic visibility, authority and lead generation
-* Forward content-pipeline planning
+* Content supporting organic visibility, authority and lead generation
+* Forward editorial-pipeline planning
 
 </details>
 
@@ -349,8 +392,6 @@ A forward content pipeline had been developed, meaning articles I had written co
 
 Developed and supported **service-page content for ADAM Global**, connecting SEO requirements with commercial service positioning and lead-generation journeys.
 
-**Content areas included:**
-
 `Company Formation` • `Business Setup` • `Corporate Services` • `Tax` • `Accounting` • `Advisory` • `Regulatory Content` • `Compliance` • `Service Landing Pages`
 
 ---
@@ -359,7 +400,7 @@ Developed and supported **service-page content for ADAM Global**, connecting SEO
 
 For LFL International Group, I was responsible for the broader **website content strategy and content development across the website**.
 
-The work combined **brand positioning, SEO, information architecture, service communication and lead-generation strategy** rather than treating website copy as a standalone activity.
+The work combined **brand positioning, SEO, information architecture, service communication and lead-generation strategy**.
 
 <details>
 <summary><strong>View Website Content Strategy Responsibilities</strong></summary>
@@ -378,7 +419,7 @@ The work combined **brand positioning, SEO, information architecture, service co
 * Conversion-oriented page structure
 * CTA planning
 * Internal linking
-* Content optimisation for organic search
+* Organic-search optimisation
 * Content supporting traditional search and emerging AI discovery
 * Coordination between website, SEO, paid media and lead-generation activities
 
@@ -386,7 +427,7 @@ The work combined **brand positioning, SEO, information architecture, service co
 
 [🌐 View LFL International Group](https://lfl-group.ae/)
 
-[🎥 Watch LFL Website Walkthrough](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
+[🎥 Watch LFL Website Walkthrough](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
 
 ---
 
@@ -394,7 +435,7 @@ The work combined **brand positioning, SEO, information architecture, service co
 
 Supported website content development across selected **legal service pages and the LF Legal Insights section**.
 
-The strategy focused on simplifying complex legal and immigration topics while creating stronger organic visibility around relevant legal-service queries.
+The strategy focused on explaining complex legal and immigration topics clearly while increasing organic-search visibility around relevant legal-service queries.
 
 <details>
 <summary><strong>View Content Contributions</strong></summary>
@@ -409,14 +450,14 @@ The strategy focused on simplifying complex legal and immigration topics while c
 * Topic planning
 * Service-to-insight internal linking
 * On-page SEO structure
-* User-focused explanation of legal services
-* Content supporting organic discovery and consultation journeys
+* User-focused legal-service explanations
+* Content supporting consultation journeys
 
 </details>
 
 [📝 View LF Legal Insights](https://www.lflegal.uk/insights/)
 
-[🎥 Watch LF Legal Website Walkthrough](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)
+[🎥 Watch LF Legal Website Walkthrough](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)
 
 ---
 
@@ -424,42 +465,9 @@ The strategy focused on simplifying complex legal and immigration topics while c
 
 Developed and coordinated **LinkedIn content for professional-services brands including LFL International Group and LF Legal**.
 
-The objective was to use LinkedIn as part of a wider **B2B marketing, authority-building and lead-generation strategy**, rather than as an isolated social-media channel.
-
-**Content included:**
+LinkedIn formed part of a broader **B2B marketing, authority-building, content-distribution and lead-generation strategy**.
 
 `Regulatory Updates` • `Corporate Services` • `Legal & Immigration Insights` • `Business Advisory` • `Tax & Compliance` • `Thought Leadership` • `Webinars` • `Events` • `Corporate Updates` • `Lead Generation`
-
----
-
-## 🎤 Webinars | AML Compliance & Corporate Tax
-
-Supported and conducted educational webinars around **AML Compliance and Corporate Tax services** during my work with **ADAM Global and LFL International Group**.
-
-The webinars formed part of a wider **education, client-engagement, lead-nurturing and cross-selling strategy**.
-
-<details>
-<summary><strong>View Webinar Marketing Activities</strong></summary>
-
-<br>
-
-* Topic and campaign planning
-* Service positioning
-* Webinar content development
-* Presentation coordination
-* Audience and database segmentation
-* Client and prospect invitations
-* Email marketing
-* WhatsApp promotion and reminders
-* Social media promotion
-* Registration and landing-page coordination
-* Educational regulatory content
-* Coordination with tax, compliance and advisory specialists
-* Post-webinar follow-up
-* Consultation and cross-sell opportunities
-* Repurposing webinar topics into website, social and thought-leadership content
-
-</details>
 
 ---
 
@@ -476,26 +484,73 @@ The webinars formed part of a wider **education, client-engagement, lead-nurturi
 | Keyword Research    | SEO Articles            | LinkedIn                   |
 | Competitor Research | Service Pages           | Email                      |
 | Search Intent       | Website Copy            | WhatsApp                   |
-| Content Gaps        | Thought Leadership      | Webinars                   |
-| Topic Clusters      | Internal Linking        | Digital PR                 |
-| Commercial Mapping  | Conversion CTAs         | GA4                        |
-| Editorial Planning  | Content Repurposing     | Search Console             |
+| Content Gaps        | Landing Pages           | Webinars                   |
+| Topic Clusters      | Thought Leadership      | Digital PR                 |
+| Commercial Mapping  | Internal Linking        | GA4                        |
+| Editorial Planning  | Conversion CTAs         | Search Console             |
 
 ---
 
-# 🎤 Events, PR & Experiential Marketing
+# 🎓 Professional Training & SME Contribution
 
-![Events](https://img.shields.io/badge/CORPORATE_EVENTS-EA580C?style=for-the-badge)
-![PR](https://img.shields.io/badge/PR_&_MEDIA-DC2626?style=for-the-badge)
-![Lead Generation](https://img.shields.io/badge/EVENT_LEAD_GENERATION-7C3AED?style=for-the-badge)
+![SME](https://img.shields.io/badge/SUBJECT_MATTER_EXPERT-7C3AED?style=for-the-badge)
+![IBM](https://img.shields.io/badge/IBM_DEVELOPER_SKILLS_NETWORK-0F62FE?style=for-the-badge)
 
-In addition to digital acquisition, I have experience supporting and coordinating **corporate events, client engagement programmes, business forums, exhibitions and PR-led marketing initiatives**, connecting offline marketing with **digital campaigns, CRM, lead generation and post-event follow-up**.
+## Skill-Up Technologies | IBM Developer Skills Network
+
+Worked as a **Subject Matter Expert (SME) and featured video contributor** through Skill-Up Technologies for questionnaire-based **Expert Viewpoint** learning content for the **IBM Developer Skills Network**.
+
+Shared practical, real-world digital marketing experience across three IBM courses:
+
+1. **Fundamentals of Digital Marketing**
+2. **Search Engine Optimization and Content Marketing**
+3. **Generative AI: Accelerate Your Digital Marketing Career**
+
+The contribution focused on translating real-world marketing experience into accessible professional learning content across **digital marketing fundamentals, SEO, content marketing and Generative AI applications in marketing**.
+
+---
+
+# 🎤 Webinars, Events, PR & Experiential Marketing
+
+![Webinars](https://img.shields.io/badge/WEBINARS-EA580C?style=for-the-badge)
+![Events](https://img.shields.io/badge/CORPORATE_EVENTS-7C3AED?style=for-the-badge)
+![PR](https://img.shields.io/badge/PR_%26_MEDIA-DC2626?style=for-the-badge)
+
+In addition to digital acquisition, I have experience supporting and coordinating **webinars, corporate events, client-engagement programmes, business forums, exhibitions and PR-led initiatives**, connecting offline activities with **digital marketing, CRM, content, lead generation and post-event follow-up**.
+
+---
+
+## AML Compliance & Corporate Tax Webinars
+
+Supported and conducted educational webinars around **AML Compliance and Corporate Tax services** during my work with **ADAM Global and LFL International Group**.
+
+<details>
+<summary><strong>View Webinar Marketing Activities</strong></summary>
+
+<br>
+
+* Topic and campaign planning
+* Service positioning
+* Webinar content development
+* Presentation coordination
+* Audience and database segmentation
+* Client and prospect invitations
+* Email marketing
+* WhatsApp promotion and reminders
+* Social-media promotion
+* Registration and landing-page coordination
+* Coordination with tax, compliance and advisory specialists
+* Post-webinar follow-up
+* Consultation and cross-sell opportunities
+* Repurposing webinar themes into digital content
+
+</details>
 
 ---
 
 ## ADAM Global Client Business Brunches
 
-Helped coordinate business brunches designed to strengthen relationships with existing ADAM Global clients while creating opportunities to cross-sell:
+Helped coordinate business brunches designed to strengthen relationships with existing clients while creating opportunities to cross-sell:
 
 `Accounting & Bookkeeping` • `AML Compliance` • `Corporate Tax` • `Tax Advisory` • `Audit` • `Business Advisory`
 
@@ -514,7 +569,7 @@ Helped coordinate business brunches designed to strengthen relationships with ex
 * Internal coordination with Accounting, AML, Tax and Advisory teams
 * RSVP and attendee management
 * Presentation and speaker coordination
-* On-site event support
+* On-site support
 * Cross-sell opportunity identification
 * CRM and sales-team follow-up
 
@@ -522,9 +577,9 @@ Helped coordinate business brunches designed to strengthen relationships with ex
 
 ---
 
-## ADAM Global Business Forum
+## ADAM Global International Business Forum
 
-Supported the marketing and coordination of the **ADAM Global Business Forum**, connecting event promotion with digital marketing and client-engagement activities.
+Supported marketing and event management for the **ADAM Global International Business Forum**, connecting event promotion with digital marketing, networking, client engagement and lead generation.
 
 <details>
 <summary><strong>View Responsibilities</strong></summary>
@@ -538,12 +593,14 @@ Supported the marketing and coordination of the **ADAM Global Business Forum**, 
 * Event landing pages
 * Email marketing
 * WhatsApp campaigns
-* Social media promotion
+* Social-media promotion
 * Event branding
-* Brochures and marketing collateral
-* Registration coordination
+* Brochures and collateral
+* Vendor coordination
+* Registration
 * Lead capture
 * Photography and video coordination
+* On-site execution
 * Post-event communication and nurturing
 
 </details>
@@ -561,16 +618,15 @@ Supported LFL and LF Legal's participation in an immigration-focused exhibition,
 
 * Exhibition stall coordination
 * Stall branding and messaging
-* Event-specific landing page
-* Lead-generation forms
-* Registration forms
-* QR-code-based lead capture
+* Event-specific landing pages
+* Lead-generation and registration forms
+* QR-code lead capture
 * Immigration-services brochures
 * Event invitation database preparation
 * Prospect and client segmentation
 * Email invitation campaigns
 * WhatsApp invitations and reminders
-* Social media event promotion
+* Social-media promotion
 * Event countdown creatives
 * Coordination with immigration and legal teams
 * Staff and booth scheduling
@@ -585,19 +641,26 @@ Supported LFL and LF Legal's participation in an immigration-focused exhibition,
 
 ## PR, Media Relations & Digital Authority
 
-Worked on PR-led brand visibility and digital-authority initiatives integrating **media coverage, thought leadership, SEO and brand reputation**.
-
-**Activities included:**
+Worked on PR-led brand visibility and digital-authority initiatives integrating **media exposure, thought leadership, SEO and brand reputation**.
 
 `Thought Leadership` • `Corporate Announcements` • `Expert Commentary` • `Media Outreach` • `Guest Articles` • `Digital PR` • `Backlink Acquisition` • `Referral Traffic` • `Brand Visibility`
 
-Supported article and brand-feature opportunities through publications and media platforms including **Khaleej Times, WAM and other UAE media channels**.
+Supported article and brand-feature opportunities through publications and media platforms including **Khaleej Times, WAM, Timeout Dubai and other UAE media channels**.
 
-The approach connected PR with SEO by using authoritative media visibility to strengthen **brand credibility, referral traffic, backlinks, entity authority and organic search visibility**.
+The approach connected PR with SEO by using authoritative media exposure to strengthen **brand credibility, referral traffic, backlinks, entity authority and organic-search visibility**.
 
 ---
 
-# 🧩 Marketing Capabilities
+# 🧩 Core Marketing Capabilities
+
+## Strategy & Leadership
+
+| Marketing Strategy | Leadership                    | Commercial          |
+| ------------------ | ----------------------------- | ------------------- |
+| Marketing Planning | Multi-Brand Management        | Budget Management   |
+| Positioning        | Team Leadership               | KPI Reporting       |
+| Market Research    | Creative Direction            | Competitor Analysis |
+| Campaign Planning  | Cross-Functional Coordination | Growth Strategy     |
 
 ## Digital Marketing
 
@@ -606,59 +669,110 @@ The approach connected PR with SEO by using authoritative media visibility to st
 | Google Ads            | Technical SEO        | GA4                 |
 | Meta Ads              | On-Page SEO          | Google Tag Manager  |
 | LinkedIn Ads          | Off-Page SEO         | Search Console      |
-| Remarketing           | Local SEO            | Conversion Tracking |
-| Lead Generation       | Content Strategy     | CRM Attribution     |
-| Media Planning        | AEO                  | Salesforce          |
-| Budget Optimisation   | GEO                  | Funnel Analysis     |
-| CRO                   | AI Search Visibility | Marketing Reporting |
+| SEM / PPC             | Local SEO            | Conversion Tracking |
+| Remarketing           | AEO                  | CRM Attribution     |
+| Lead Generation       | GEO                  | Salesforce          |
+| A/B Testing           | AI Search Visibility | HubSpot             |
+| CRO                   | Content Strategy     | Funnel Analysis     |
 
 ## Content, Web & Social
 
-| Content & Social     | Website & Conversion | Marketing Strategy   |
-| -------------------- | -------------------- | -------------------- |
-| Content Marketing    | Website Strategy     | Marketing Planning   |
-| LinkedIn             | Landing Pages        | Budget Planning      |
-| Instagram            | CRO                  | Positioning          |
-| Facebook             | Lead Forms           | Channel Strategy     |
-| Video Content        | WhatsApp Integration | Lead Generation      |
-| Thought Leadership   | Live Chat            | Multi-channel Growth |
-| Community Management | E-commerce           | Campaign Strategy    |
-| Brand Growth         | Product Marketing    | Measurement          |
-
-## Event & PR Marketing
-
-| Strategy           | Event Execution       | Communications           |
-| ------------------ | --------------------- | ------------------------ |
-| Event Strategy     | Venue Coordination    | Media Relations          |
-| Business Forums    | Speaker Coordination  | Thought Leadership       |
-| Exhibitions        | Stall Management      | Press Content            |
-| Client Engagement  | Guest Management      | Digital PR               |
-| Cross-Selling      | RSVP Tracking         | Media Outreach           |
-| Event Budgeting    | Registration          | Corporate Communications |
-| Campaign Timelines | Supplier Coordination | Brand Reputation         |
-| Lead Strategy      | Photo & Video         | Authority Building       |
+| Content & Social     | Website & Conversion     | Marketing Communications |
+| -------------------- | ------------------------ | ------------------------ |
+| Content Marketing    | Website Strategy         | Email Marketing          |
+| Brand Storytelling   | Landing Pages            | WhatsApp Marketing       |
+| LinkedIn             | Information Architecture | Thought Leadership       |
+| Instagram            | CRO                      | Webinars                 |
+| Facebook             | Lead Forms               | Event Marketing          |
+| TikTok               | User Journeys            | Digital PR               |
+| YouTube              | E-Commerce               | Corporate Communications |
+| Community Management | Website Optimisation     | Brand Reputation         |
 
 ---
 
-# 🌐 Website Projects & Walkthroughs
+# 🌐 Website Projects & Walkthrough Recordings
 
 Selected website projects demonstrating **website strategy, development coordination, content architecture, SEO implementation, user journeys and digital conversion optimisation**.
 
 | Project                     | Market          | Website Walkthrough                                                                                         |
 | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------- |
-| **LFL International Group** | Dubai, UAE      | [🎥 Watch Recording](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link)  |
-| **LF Legal**                | United Kingdom  | [🎥 Watch Recording](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link)  |
+| **LFL International Group** | Dubai, UAE      | [🎥 Watch Recording](https://drive.google.com/file/d/1gAOsJ_FRA5uyjtyjfF9-fuLP-sCmlVg9/view?usp=drive_link) |
+| **LF Legal**                | United Kingdom  | [🎥 Watch Recording](https://drive.google.com/file/d/1PAdN89YVv-ItxUsityTvcu82-2K_sqlX/view?usp=drive_link) |
 | **Madam Me**                | United Kingdom  | [🎥 Watch Recording](https://drive.google.com/file/d/1RyrJdRtUbjRPC1IDw9MLmVvHXh2TNAxx/view?usp=drive_link) |
 | **Very Special Love (VSL)** | Website Project | [🎥 Watch Recording](https://drive.google.com/file/d/1f1Q9KYXXcNK_GTGg1CvSaEpl3LJvmcV1/view?usp=drive_link) |
 
 ---
 
+# 🏢 Additional Brand & Industry Experience
+
+**Real Estate**
+Rocky Real Estate | Imtiaz | Truebays
+
+**Legal**
+Al Ramsy Advocates | LF Legal | Law Firm Ltd
+
+**Automotive**
+MRF Tyres / Tyre Dealers Dubai | CAM Auto Dubai
+
+**Logistics**
+Globelink West Star
+
+**E-Commerce & Retail**
+Majestic Optics | Buzinessware | Al Hajis Perfumes
+
+**Healthcare**
+UniCare Medical Centre
+
+**Auditing & Accounting**
+Clae Emirates
+
+**Corporate Services & Business Setup**
+ADAM Global | Dubai Business Advisors | LFL International Group
+
+---
+
+# 💻 Technology & Data Background
+
+Before moving fully into marketing leadership, I worked with **Cognizant Technology Solutions** as a Software Analyst / Data Analyst.
+
+This technical foundation included:
+
+* SQL-based data extraction
+* OLAP and multidimensional data analysis
+* Campaign-performance analysis
+* CTR, conversion-rate and CPC monitoring
+* Data-driven performance insights
+* Cross-functional project leadership
+
+This technical background continues to support my approach to **marketing analytics, measurement, attribution, automation and performance optimisation**.
+
+---
+
+# 🎓 Education
+
+**B.Tech – Information Technology**
+Mahatma Gandhi University
+**First Class Honours with Distinction – 75.6%**
+
+---
+
+# 🏅 Certifications & Awards
+
+* Google Ads (AdWords) Certified Professional
+* Google Analytics Certified Professional
+* Google Data Analytics Certified
+* OCJP Certified Java Professional
+* President's Education Awards Program
+* Certificate of Merit – National Junior Honor Society
+
+---
+
 # ℹ️ About This Portfolio
 
-> This repository contains selected marketing projects across **B2B, professional services, legal services, corporate services, beauty, luxury lifestyle, e-commerce, automotive, logistics, real estate and retail sectors**.
+> [!NOTE]
+> Where historical analytics were available, performance figures are based on available **GA4, CRM, advertising, SEO or reporting data**. Where historical analytics were unavailable, estimates or current public-footprint figures are identified separately rather than presented as verified historical results.
 
-Where historical analytics were available, performance figures are based on available **GA4, CRM, advertising, SEO or reporting data**.
-
+This portfolio demonstrates both **strategic marketing leadership and hands-on execution**, from planning, budgeting, positioning and team leadership through to SEO, paid media, content, analytics, websites, events, PR and lead generation.
 
 ---
 
@@ -668,7 +782,7 @@ Where historical analytics were available, performance figures are based on avai
 
 ![Digital Marketing](https://img.shields.io/badge/DIGITAL_MARKETING-0A66C2?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/PERFORMANCE-7C3AED?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO_&_AI_SEARCH-059669?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO_%26_AI_SEARCH-059669?style=for-the-badge)
 ![Growth](https://img.shields.io/badge/GROWTH-EA580C?style=for-the-badge)
 
 </div>

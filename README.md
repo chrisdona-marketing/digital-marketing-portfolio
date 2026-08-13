@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Chris_Dona-0A66C2?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:chrisphilip.07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chrisphilip.07%40gmail.com-475569?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-chrissusanphilip%40gmail.com-475569?style=flat-square&logo=gmail">
   </a>
   <img src="https://img.shields.io/badge/Dubai-UAE-334155?style=flat-square">
 </p>

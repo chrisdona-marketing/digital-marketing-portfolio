@@ -30,7 +30,7 @@
 
 ---
 
-## 👋 Profile
+## Profile
 
 Marketing Manager and Marketing Strategist with **15+ years of total professional experience**, including **10+ years of UAE digital marketing experience**, combining **strategic marketing leadership with strong hands-on digital marketing knowledge and execution capability**.
 
